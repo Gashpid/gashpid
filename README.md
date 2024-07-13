@@ -27,7 +27,7 @@
       <a href="https://github.com/Gashpid/MTP">
         <h3>Mini Telescope (MTP)</h3>
         <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: auto; margin: auto;">
-          <img src="src/MTP/MTP.jpg" alt="Project Image 2" style="width: 100%; height: auto; object-fit: cover;">
+          <img src="src/MTP/MTP.jpeg" alt="Project Image 2" style="width: 100%; height: auto; object-fit: cover;">
         </div>
         <p style="text-align: justify; padding: 10px;">
           Mini Telescope (MTP) is a hardware project based on the Raspberry Pi. This innovative telescope leverages image processing techniques to automatically guide and track celestial objects, making astronomy more accessible and enjoyable.
