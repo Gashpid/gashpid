@@ -12,7 +12,7 @@
 
 <table style="width:100%">
   <tr>
-    <td style="width:50%; text-align: center; vertical-align: top;">
+    <td align="justify" style="width:50%; text-align: center; vertical-align: top;">
       <a href="https://github.com/AnWallpaper/AnWallpaper">
         <h3>AnWallpaper</h3>
         <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
@@ -23,7 +23,7 @@
         </p>
       </a>
     </td>
-    <td style="width:50%; text-align: center; vertical-align: top;">
+    <td align="justify" style="width:50%; text-align: center; vertical-align: top;">
       <a href="https://github.com/Gashpid/MTP">
         <h3>Mini Telescope (MTP)</h3>
         <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 80%">
