@@ -15,7 +15,7 @@
     <td style="width:50%; text-align: center; vertical-align: top;">
       <a href="https://github.com/AnWallpaper/AnWallpaper">
         <h3>AnWallpaper</h3>
-        <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+        <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 80%">
           <img src="src/AnWallpaper/AnWallpaper.png" alt="Project Image 1" style="width: 100%; height: 150px; object-fit: cover;">
         </div>
         <p style="text-align: justify; padding: 10px;">
