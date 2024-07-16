@@ -10,29 +10,43 @@
 
 ## Some Projects I've Done
 
-<table style="width:100%">
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
+
+| Time         | Length        | Speed              | Mass         |
+| ------------ | ------------- | ------------------ | ------------ |
+| -Millisecond | Millimetre    | Kilometre per hour | Milligram    |
+| Second       | Centimetre    | Foot per second    | Gram         |
+| Minute       | Inch          | Miles per hour     | Ounce        |
+
+
+<table style="width:100%; border: none!important;" FRAME="vsides" RULES="none">
   <tr>
-    <td style="width:50%; text-align: center; vertical-align: top;" align="justify">
+    <td style="width:50%; text-align: center; vertical-align: top;" align="justify; border: 5px solid: #f00;">
+      <div align="center"><h3>AnWallpaper</h3></div>
       <a href="https://github.com/AnWallpaper/AnWallpaper">
-        <h3>AnWallpaper</h3>
-        <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: auto; margin: auto;">
+        <div style="border: 10px solid #f00; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: auto; margin: auto;">
           <img src="src/AnWallpaper/AnWallpaper.png" alt="Project Image 1" style="width: 100%; height: auto; object-fit: cover;">
         </div>
-        <p style="text-align: justify; padding: 10px;">
-          AnWallpaper is a Windows application programmed in C# that allows you to use videos as dynamic wallpapers. Transform your desktop with high-definition videos, providing a unique and attractive visual experience.
-        </p>
       </a>
+      <p style="text-align: justify; padding: 10px;">
+        AnWallpaper is a Windows application programmed in C# that allows you to use videos as dynamic wallpapers. Transform your desktop with high-definition videos, providing a unique and attractive visual experience.
+      </p>
     </td>
     <td style="width:50%; text-align: center; vertical-align: top;" align="justify">
+      <div align="center"><h3>Mini Telescope (MTP)</h3></div>
       <a href="https://github.com/Gashpid/MTP">
-        <h3>Mini Telescope (MTP)</h3>
         <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: auto; margin: auto;">
           <img src="src/MTP/MTP.jpeg" alt="Project Image 2" style="width: 100%; height: auto; object-fit: cover;">
         </div>
-        <p style="text-align: justify; padding: 10px;">
-          Mini Telescope (MTP) is a hardware project based on the Raspberry Pi. This innovative telescope leverages image processing techniques to automatically guide and track celestial objects, making astronomy more accessible and enjoyable.
-        </p>
       </a>
+      <p style="text-align: justify; padding: 10px;">
+        Mini Telescope (MTP) is a hardware project based on the Raspberry Pi. This innovative telescope leverages image processing techniques to automatically guide and track celestial objects, making astronomy more accessible and enjoyable.
+      </p>
     </td>
   </tr>
 </table>
